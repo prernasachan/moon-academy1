@@ -3,6 +3,115 @@
 
 Moon Academy is an enterprise learning management solution built with Microsoft Power Apps. It brings employee training, learning sessions, nominations, administration and progress tracking into a single application experience.
 
+## App Gallery
+Explore the main experiences available in Moon Academy.
+
+<img width="468" height="265" alt="image" src="https://github.com/user-attachments/assets/ab14dd45-9a0d-47f7-8013-9da7ce16d513" />
+<img width="468" height="261" alt="image" src="https://github.com/user-attachments/assets/50f67f05-389d-44d2-ba87-4806b45a8a05" />
+<br/><br/>
+
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/370e4670-7953-490f-b6cf-7519b0f6a2ae" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/3e16db0c-2cfe-412f-8078-5d02a18acf8a" />
+<br/><br/>
+
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/531f9455-22ea-4675-9dd0-881a07709700" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/623a84cc-595e-4735-88ee-f833fda28e22" />
+<br/><br/>
+
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/4f557102-6a36-4e1e-89e3-62c2e0da92f1" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/c81dbfaa-2df5-4010-b617-b0ceff6084e8" />
+<br/><br/>
+
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/3e2064b0-6739-4fbf-8347-c40052a29256" />
+<img width="468" height="260" alt="image" src="https://github.com/user-attachments/assets/f6cce29d-8137-466d-a629-9fa34f08f1ee" />
+<br/><br/>
+
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/9f06f9bd-2172-4d7e-8c25-f35b7ab14644" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/616ecb2c-5c3e-4421-b236-8c3a44e22f35" />
+<br/><br/>
+
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/ed5605ff-7f8a-45c9-9df2-cad3b156ff5d" />
+<img width="468" height="263" alt="image" src="https://github.com/user-attachments/assets/0fcf9cd3-0cf1-43d3-8248-34d8219e146b" />
+<br/><br/>
+
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/004f97e0-b0c7-479d-90af-89f07c4b8117" />
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/89a9af93-f60a-4f4e-81f6-a694b070c2c0" />
+<br/><br/>
+
+<img width="468" height="265" alt="image" src="https://github.com/user-attachments/assets/9b4bc765-8131-4cfe-843e-d4ffd5988a40" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/067e1106-259b-4933-9edc-d52b29dfe684" />
+<br/><br/>
+
+<img width="468" height="261" alt="image" src="https://github.com/user-attachments/assets/67eaf1a5-eab1-4763-992e-2cf15f98d6f4" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/f6472387-1469-4def-9424-3cc6941fe080" />
+<br/><br/>
+
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/7e2e9fe3-72fe-4e12-bd19-cfb8f38ede09" />
+<img width="468" height="266" alt="image" src="https://github.com/user-attachments/assets/facd189e-32ae-4509-943c-26e1c586d8bb" />
+<br/><br/>
+
+<img width="468" height="266" alt="image" src="https://github.com/user-attachments/assets/7eb8d9d3-7d0b-45d0-be7a-cdf19f6da7b0" />
+<img width="468" height="261" alt="image" src="https://github.com/user-attachments/assets/e07abab3-714b-4ab2-9811-050c2fea6e3b" />
+<br/><br/>
+
+<img width="468" height="259" alt="image" src="https://github.com/user-attachments/assets/05f54e9a-82de-4690-ba19-d3dbcec4f6bf" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/01a7330a-9540-40a1-a9c2-83fc1cf969c8" />
+<br/><br/>
+
+<img width="468" height="260" alt="image" src="https://github.com/user-attachments/assets/b67d7840-3a97-4511-960f-56d7317030f3" />
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/3e3d954c-c750-4e74-a995-d8fd0c84dde9" />
+<br/><br/>
+
+<img width="468" height="264" alt="image" src="https://github.com/user-attachments/assets/ab24a975-9c6b-46d4-82fa-c3b56ceacb42" />
+<img width="468" height="261" alt="image" src="https://github.com/user-attachments/assets/e3b49f1d-08e1-4368-af20-1f1a4b47551a" />
+<br/><br/>
+
+<img width="468" height="265" alt="image" src="https://github.com/user-attachments/assets/d1626085-141f-4083-892e-0c9cfcc28c74" />
+<img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/b9ab3d81-82c1-48b4-8132-842fc7500d6d" />
+<br/><br/>
+
+<img width="468" height="260" alt="image" src="https://github.com/user-attachments/assets/d364ca94-cad8-42e5-8577-87dea73683c9" />
+<img width="468" height="260" alt="image" src="https://github.com/user-attachments/assets/c10f6aa7-d222-48c2-8d71-709bd992b277" />
+<br/><br/>
+
+<img width="468" height="262" alt="image" src="https://github.com/user-attachments/assets/dad1b3b2-c98d-4e0e-9ba9-9dd83f3304ac" />
+<img width="468" height="265" alt="image" src="https://github.com/user-attachments/assets/60064723-30d9-41c5-959c-c989f940a24b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 01. Project Overview
